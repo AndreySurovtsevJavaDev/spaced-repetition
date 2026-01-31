@@ -5,18 +5,18 @@ A Google Apps Script that automates the creation of events in Google Calendar fo
 **Note:** I use this script in Google Workspace at [https://script.google.com/home](https://script.google.com/home)
 
 ## Preview
-![Calendar Preview](https://github.com/user-attachments/assets/f0ffbdea-8e21-4048-8920-21e4374a1dfd)
+<img width="1674" height="934" alt="2026-01-30_16-04-31" src="https://github.com/user-attachments/assets/13392be2-76f9-4110-854a-ed54e1adadd2" />
+
 
 ## Setup Instructions
 
-### Create a New Calendar
-![Create Calendar](https://github.com/user-attachments/assets/e51e7dbd-d31c-483f-96e9-6de237241503)
+### Choose or create a Calendar
+<img width="250" height="717" alt="2026-01-31_09-11-31" src="https://github.com/user-attachments/assets/620b79bf-14f4-45b1-801a-0bdc323957b9" />
 
 ### Configure Calendar ID
 - Copy your calendar ID from the calendar settings
 - Replace `const CALENDAR_ID` value with your calendar ID
-
-![Calendar ID Configuration](https://github.com/user-attachments/assets/d614210a-d280-48cb-9523-7b59bb34cce1)
+<img width="1920" height="544" alt="2026-01-30_16-15-00" src="https://github.com/user-attachments/assets/7f06d7d6-3aa5-4b17-a62e-55f1003b8ff5" />
 
 ### Authorization
 - Click the "Run" button in the script editor
@@ -56,5 +56,5 @@ A Google Apps Script that automates the creation of events in Google Calendar fo
    Add the number of days to shift as the first argument (default is 1),
   then comment out other functions with //
 
-<img width="1014" height="424" alt="2026-01-30_21-52-44" src="https://github.com/user-attachments/assets/84072dd8-3d4e-4004-85b3-e78e23acdc12" />
+<img width="1014" height="424" alt="2026-01-30_21-52-44" src="https://github.com/user-attachments/assets/00a91dec-96c6-4b32-a404-f93b51e7649b" />
 
