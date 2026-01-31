@@ -16,7 +16,8 @@ A Google Apps Script that automates the creation of events in Google Calendar fo
 ### Configure Calendar ID
 - Copy your calendar ID from the calendar settings
 - Replace `const CALENDAR_ID` value with your calendar ID
-<img width="1920" height="544" alt="2026-01-30_16-15-00" src="https://github.com/user-attachments/assets/7f06d7d6-3aa5-4b17-a62e-55f1003b8ff5" />
+<img width="1920" height="544" alt="2026-01-30_16-15-00" src="https://github.com/user-attachments/assets/e0f81dcf-63b6-4538-851f-7ea52afad1d4" />
+
 
 ### Authorization
 - Click the "Run" button in the script editor
